@@ -1,6 +1,6 @@
 # Speech-Enhancement
 
-The file DCUnet.ipynb is dervied from the program in https://github.com/pheepa/DCUnet/blob/master/dcunet.ipynb. Modifications have been made to make the program to run on the version of Colab in Feb. 2021. Specifically, the notebook installs the following packages:
+The file DCUnet.ipynb is dervied from the program in https://github.com/pheepa/DCUnet/blob/master/dcunet.ipynb. Modifications have been made to make the program to run on the version of Colab in Feb. 2021. Specifically, the notebook uses the following packages:
 
 - torchaudio==0.5.0a0+738ccba
 - tqdm==4.56.2
