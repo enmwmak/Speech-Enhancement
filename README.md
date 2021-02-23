@@ -9,3 +9,6 @@ The file DCUnet.ipynb is dervied from the program in https://github.com/pheepa/D
 - scipy==1.4.1
 - matplotlib==3.3.1
 - torch==1.5.1
+
+DCUnet16.ipynb: Train and test on 16kHz wavefiles
+DCUnet48.ipynb: Train and test on 48kHz wavefiles (similar to https://github.com/pheepa/DCUnet/blob/master/dcunet.ipynb)
